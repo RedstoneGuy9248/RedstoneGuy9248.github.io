@@ -1,4 +1,1 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://www.ridhim.in/sitemap.xml
