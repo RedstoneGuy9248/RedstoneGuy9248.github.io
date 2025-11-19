@@ -2,30 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ridhim.in/about-me/</loc>
+    <loc>https://ridhim.in/interests/</loc>
+    <lastmod>2025-11-19T10:35:11+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/categories/</loc>
+    <loc>https://ridhim.in/interests/linux/</loc>
+    <lastmod>2025-11-19T10:35:11+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/cooking--baking/</loc>
+    <loc>https://ridhim.in/</loc>
+    <lastmod>2025-11-19T10:35:11+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/crocheting/</loc>
+    <loc>https://ridhim.in/interests/crocheting/</loc>
+    <lastmod>2025-11-19T10:18:02+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/gaming/</loc>
+    <loc>https://ridhim.in/interests/cooking/</loc>
+    <lastmod>2025-11-19T10:15:40+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/history/</loc>
+    <loc>https://ridhim.in/interests/gaming/</loc>
+    <lastmod>2025-11-19T10:15:35+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/home-server/</loc>
+    <loc>https://ridhim.in/interests/muns/</loc>
+    <lastmod>2025-11-19T10:15:28+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/</loc>
+    <loc>https://ridhim.in/interests/home-server/</loc>
+    <lastmod>2025-11-19T10:15:23+05:30</lastmod>
   </url><url>
-    <loc>https://www.ridhim.in/interests/model-united-nations/</loc>
+    <loc>https://ridhim.in/categories/</loc>
   </url><url>
-    <loc>https://www.ridhim.in/interests/pet-owner/</loc>
-  </url><url>
-    <loc>https://www.ridhim.in/</loc>
-  </url><url>
-    <loc>https://www.ridhim.in/tags/</loc>
-  </url><url>
-    <loc>https://www.ridhim.in/interests/technology/</loc>
+    <loc>https://ridhim.in/tags/</loc>
   </url>
 </urlset>
